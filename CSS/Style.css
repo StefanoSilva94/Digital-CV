@@ -1,0 +1,28 @@
+html{
+    background-color: #3366cc;
+}
+
+body{
+    background-color: #ffffff;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    background-color: #33cc33;
+    padding:0px 5px 10px 5px;
+    width: 100%;
+    display: table;
+}
+
+footer{
+    background-color: gray;
+    padding:0px 5px 10px 5px;
+    width: 100%;
+    display: table;
+}
+
+footer a:visited{
+    color: purple;
+}
